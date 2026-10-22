@@ -48,4 +48,4 @@ Grouping by name alone would have merged the shared-name suppliers into one row 
 - `screenshots/`: Dataiku flow, scorecard, charts, Snowflake check, SAS output
 
 ## Tools
-Snowflake, Dataiku (cloud trial), SAS OnDemand for Academics.
+Snowflake, Dataiku , SAS.
